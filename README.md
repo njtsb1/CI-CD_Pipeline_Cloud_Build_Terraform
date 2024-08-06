@@ -6,4 +6,3 @@ Project developed at the Bootcamp Cloud DevOps Experience - Banco Carrefour with
 Learning how to create CI/CD Pipeline with Cloud Build and Terraform. Explore creating a CI/CD pipeline with Google Cloud Build and Terraform for Infrastructure as Code provisioning.
 
 [LICENSE](/LICENSE)
-# CI-CD_Pipeline_Cloud_Build_Terraform
